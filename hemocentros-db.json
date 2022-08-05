@@ -1,0 +1,430 @@
+[
+  {
+    "estado": "Acre",
+    "nome": "Hemoacre",
+    "endereco": "Av. Getúlio Vargas, 2787 - Vila Ivonete - Rio Branco, Acre - Cep:69914-500",
+    "tel": ["(68)32481377"]
+  },
+  {
+    "estado": "Amapá",
+    "nome": "Hemoap",
+    "endereco": "Av Fab, 0 - Central - Macapa, Amapá - Cep:68900-073",
+    "tel": ["(96)32126139"]
+  },
+  {
+    "estado": "Amazonas",
+    "nome": "Fhemoam",
+    "endereco": "Av Constantino Nery, 4397 - Chapada - Manaus, Amazonas - Cep:69050-000",
+    "tel": ["(96)32126139", "(92)36565180"]
+  },
+  {
+    "estado": "Pará",
+    "nome": "Fundação Hemopa",
+    "endereco": "Travessa Padre Eutiquio, 2109 - Batista Campos - Belem, Pará",
+    "tel": ["0800 280 8118", "(91) 3110-6500"]
+  },
+  {
+    "estado": "Rondônia",
+    "nome": "Fhemeron",
+    "endereco": "R Benedito De S Brito, 0 Fhemeron - Industrial - Porto Velho, Rondônia - Cep:76821-080",
+    "tel": ["(69)32165485", "(69)32165487", "(69)32162204"]
+  },
+  {
+    "estado": "Rondônia",
+    "nome": "Uct De Ji Paraná",
+    "endereco": "R Vilagran Cabrita, 1440 - Centro - Ji-parana, Rondônia - Cep:76900-044",
+    "tel": ["(69)34226762", "(69)34211615"]
+  },
+  {
+    "estado": "Tocantins",
+    "nome": "Unidade De Coleta De Transfusão Augustinópolis",
+    "endereco": "Rua Anicuns, 200 - Centro - Augustinópolis, Tocantins - Cep:77960-000",
+    "tel": ["(63)3456-1309", "(63)3456-1308"]
+  },
+  {
+    "estado": "Tocantins",
+    "nome": "Hemocentro Coordenador De Palmas",
+    "endereco": "Av. NS 1, s/n - Lt. 1 - Centro, Palmas - TO, 77001-214",
+    "tel": ["(63)32183287"]
+  },
+  {
+    "estado": "Tocantins",
+    "nome": "Hemocentro Regional De Araguaína",
+    "endereco": "R Treze De Maio, 1336 - Setor Central - Araguaina, Tocantins - Cep:77803-130",
+    "tel": ["(63)34112917", "(63)34152900", "(63)34138100"]
+  },
+  {
+    "estado": "Tocantins",
+    "nome": "Núcleo De Hemoterapia De Gurupi",
+    "endereco": "R Quatorze De Novembro, 0 Qd: 117 Lote:18 - Setor Central - Gurupi, Tocantins - Cep:77405-070",
+    "tel": ["(63)32122237"]
+  },
+  {
+    "estado": "Alagoas",
+    "nome": "Hemocentro De Alagoas – Hemoal",
+    "endereco": "Av. Jorge De Lima, 58 - Trapiche - Maceio, Alagoas - Cep:57010-300",
+    "tel": ["(82)33152107"]
+  },
+  {
+    "estado": "Bahia",
+    "nome": "Hemoba",
+    "endereco": "Ld Do Hospital Geral, 0 2º Andar - Brotas - Salvador, Bahia - Cep:40286-240",
+    "tel": ["(71)31165600"]
+  },
+  {
+    "estado": "Ceará",
+    "nome": "Hemoce",
+    "endereco": "Av. José Bastos, 3390 Rodolfo Teófilo - Fortaleza - CE - Cep:60431-086",
+    "tel": ["(85)31012296"]
+  },
+  {
+    "estado": "Maranhão",
+    "nome": "Centro De Hematologia E Hemoterapia Do Maranhão",
+    "endereco": "R. Cinco de Janeiro, S/N - Jórdoa, São Luís - MA - Cep:65040-450",
+    "tel": ["(98)32161156", "(98)32161137", "(98)32161134"]
+  },
+  {
+    "estado": "Paraíba",
+    "nome": "Hemocentro Coordenador Paraíba",
+    "endereco": "Av D Pedro Ii, 1119 - Centro - Joao Pessoa, Paraíba - Cep:58013-420",
+    "tel": ["(83)32185690"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Fundação De Hematologia E Hemoterapia De Pernambuco",
+    "endereco": "Rua Joaquim Nabuco, 171 - Gracas - Recife, Pernambuco - Cep:52011-100",
+    "tel": ["(81)31824600", "(81)31824648", "(81)31824653"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Hemocentro Regional Caruaru",
+    "endereco": "Av Oswaldo Cruz, 0 - Mauricio De Nassau - Caruaru, Pernambuco - Cep:55012-040",
+    "tel": ["(81)37199565", "(81)37199570"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Hemocentro Regional De Garanhuns",
+    "endereco": "Av Goncalves Maia, 0 - Heliopolis - Garanhuns, Pernambuco - Cep:55296-270",
+    "tel": ["(87)37618520", "(87)37618530"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Núcleo De Hemoterapia Regional Arcoverde",
+    "endereco": "Av Joaquim Nabuco, 0 - Centro - Arcoverde, Pernambuco - Cep:56506-470",
+    "tel": ["(87)31821462"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Núcleo De Hemoterapia Regional Petrolina",
+    "endereco": "R Pacifico Da Luz, 0 - Centro - Petrolina, Pernambuco - Cep:56304-010",
+    "tel": ["(87)31825866"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Núcleo De Hemoterapia Regional Salgueiro",
+    "endereco": "R. Joaquim Gondim, 65 - Santo Antonio, Salgueiro - PE - Cep: 56000-000",
+    "tel": ["(87)31820804", "(87)31820343"]
+  },
+  {
+    "estado": "Pernambuco",
+    "nome": "Núcleo De Hemoterapia Regional Serra Talhada",
+    "endereco": "418, R. Joaquim Godoy, 382 - Nossa Sra. da Penha, Serra Talhada - PE",
+    "tel": ["(87)38319323", "(087)38319330", "(87)38319328"]
+  },
+  {
+    "estado": "Piauí",
+    "nome": "Hemopi",
+    "endereco": "Rua 1º De Maio, 235 - Centro/sul - Teresina, Piauí - Cep:64001-430",
+    "tel": ["(86)32218319", "(86)32218320"]
+  },
+  {
+    "estado": "Rio Grande Do Norte",
+    "nome": "Hemonorte",
+    "endereco": "Av Alm Alexandrino De Alencar, 1800 - Tirol - Natal, Rio Grande Do Norte - Cep:59015-350",
+    "tel": ["(84)99129432", "(84)32326724", "(84)32326703"]
+  },
+  {
+    "estado": "Rio Grande Do Norte",
+    "nome": "Hemovida",
+    "endereco": "Av Nilo Pecanha, 199 - Petropolis - Natal, Rio Grande Do Norte - Cep:59012-300",
+    "tel": ["(84)32024289", "(84)32025366", "(84)99049200"]
+  },
+  {
+    "estado": "Sergipe",
+    "nome": "Hemose",
+    "endereco": "R. Quinze, s/n - Capucho, Aracaju - SE, 49095-000",
+    "tel": ["(79)32258039", "(79)32258000", "(79)32593195"]
+  },
+  {
+    "estado": "Distrito Federal",
+    "nome": "Fundação Hemocentro De Brasília",
+    "endereco": "BL 3 - SMHN conjunto A - Asa Norte, Brasília - DF - Cep:70710-908",
+    "tel": ["(61)33274447", "(61)33274413"]
+  },
+  {
+    "estado": "Goiás",
+    "nome": "Hemocentro De Goiás",
+    "endereco": "Av Anhanguera, 5195 - Setor Coimbra - Goiania, Goiás - Cep:74535-010",
+    "tel": ["(62)3201-4570", "(62)3201-4101"]
+  },
+  {
+    "estado": "Mato Grosso",
+    "nome": "Mt Hemocentro",
+    "endereco": "R Treze De Junho, 1055 - Porto - Cuiaba, Mato Grosso - Cep:78025-000",
+    "tel": ["(65)33210351", "(65)36230044"]
+  },
+  {
+    "estado": "Mato Grosso Do Sul",
+    "nome": "Hemosul",
+    "endereco": "Av Fernando C Da Costa, 1304 - Centro - Campo Grande, Mato Grosso Do Sul - Cep:79004-310",
+    "tel": ["(67)33121500", "(67)33121539"]
+  },
+  {
+    "estado": "Espírito Santo",
+    "nome": "Hemoes",
+    "endereco": "Av Mal Campos, 1468 - Maruípe - Vitoria, Espírito Santo - Cep:29045-460",
+    "tel": ["(27)36367925", "(27)36367920"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Núcleo de Divinópolis",
+    "endereco": "Rua José Gabriel Medef, 221 - Bairro: Padre Libério - Cep: 35500-139",
+    "tel": ["(37) 3216-6500/6513"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Núcleo Regional De Patos De Minas",
+    "endereco": "R Maj Gote, 1255 - Centro - Patos De Minas, Minas Gerais - Cep:38700-001",
+    "tel": ["(34)38229646"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Nucleo Regional De Ponte Nova",
+    "endereco": "R Carlos Gomes, 17 - Esplanada - Ponte Nova, Minas Gerais - Cep:35430-069",
+    "tel": ["(31)38173212"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Nucleo Regional De Pouso Alegre",
+    "endereco": "R Comendador José Garcia, 825 - Centro - Pouso Alegre, Minas Gerais - Cep:37550-000",
+    "tel": ["(35)34499900"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Nucleo Regional De São João Del Rei",
+    "endereco": "R Pref Nascimento Teixeira, 175 - Segredo - Sao Joao Del Rei, Minas Gerais - Cep:36307-404",
+    "tel": ["(32)33713389"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Nucleo Regional De Sete Lagoas",
+    "endereco": "Av Renato Azeredo, 3170 - Canaa - Sete Lagoas, Minas Gerais - Cep:35700-312",
+    "tel": ["(31)37745074"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Posto De Coleta De Betim Hemominas",
+    "endereco": "Rua Salvador Gonçalves Diniz, 191 - Baixada - Betim, Minas Gerais - Cep:36900-000",
+    "tel": ["(31)35951010"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Unidade De Coleta E Transfusão De Além Paraíba Hemominas",
+    "endereco": "R. Felizarda Esquerdo, 20 - Além Paraíba, MG, 36660-000",
+    "tel": ["(32)34624597"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Unidade De Coleta E Transfusão Hjk",
+    "endereco": "R Dr Cristiano Rezende, 2505 - Flavio Marques Lisboa - Belo Horizonte, Minas Gerais - Cep:30620-470",
+    "tel": ["(31)33908014"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Fundação Hemominas – Administração Central",
+    "endereco": "R. Grão Pará, 886 - Santa Efigênia, Belo Horizonte - MG, 30150-341",
+    "tel": ["(31)37687527", "(31)37687499"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Fundação Hemominas De Belo Horizonte",
+    "endereco": "Al Ezequiel Dias, 321 - Centro - Belo Horizonte, Minas Gerais - Cep:30130-110",
+    "tel": ["(31)37684562", "(31)37684603"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemocentro Regional De Juiz De Fora",
+    "endereco": "R Br De Cataguases, 0 - Santa Helena - Juiz De Fora, Minas Gerais - Cep:36015-370",
+    "tel": ["(32)32573100"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemocentro Regional De Montes Claros",
+    "endereco": "Rua Urbino Viana, 640 - Vila Guilhermina - Montes Claros, Minas Gerais - Cep:36900-000",
+    "tel": ["(38)32187810"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemocentro Regional De Uberaba",
+    "endereco": "Av Getulio Guarita, 250 - Nossa Senhora Da Abadia - Uberaba, Minas Gerais - Cep:38025-440",
+    "tel": ["(34)33125077"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemocentro Regional De Uberlândia",
+    "endereco": "Av Levino De Souza, 1845 - Umuarama - Uberlandia, Minas Gerais - Cep:38405-322",
+    "tel": ["(34)32228801"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemominas De Governador Valadares",
+    "endereco": "R Rui Barbosa, 149 - Centro - Governador Valadares, Minas Gerais - Cep:35020-510",
+    "tel": ["(33)32125800"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemominas De Ituiutaba",
+    "endereco": "Av. 5 A, 0 - Progresso - Ituiutaba, Minas Gerais - Cep:38302-010",
+    "tel": ["(34)32613555"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemominas Passos",
+    "endereco": "R Dr Jose L De Barros, 313 - Belo Horizonte - Passos, Minas Gerais - Cep:37900-030",
+    "tel": ["(35)35224202"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Hemominas Poços De Caldas",
+    "endereco": "Av Jose R Prezia, 303 - Jardim Dos Estados - Pocos De Caldas, Minas Gerais - Cep:37701-102",
+    "tel": ["(35)37129012"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Núcleo Regional De Diamantina Hemominas",
+    "endereco": "Rua Da Glória, 469 Fundos - Centro - Diamantina, Minas Gerais - Cep:39100-000",
+    "tel": ["(38)35313762"]
+  },
+  {
+    "estado": "Minas Gerais",
+    "nome": "Núcleo Regional De Manhuaçu",
+    "endereco": "Rua Frederico Dolabela, 289 - Baixada - Manhuacu, Minas Gerais - Cep:36900-000",
+    "tel": ["(33)33311021"]
+  },
+  {
+    "estado": "Rio de Janeiro",
+    "nome": "Hemocampos – Hemocentro Regional de Campos dos Goytacazes",
+    "endereco": "Rua Rocha Leão, 2 – Cajú – Campos dos Goytacazes, RJ – Cep: 28051-170",
+    "tel": ["(22) 98175-2599", "(22) 98126-4066"]
+  },
+  {
+    "estado": "Rio de Janeiro",
+    "nome": "Núcleo de Hemoterapia do Hospital Universitário Pedro Ernesto – UERJ",
+    "endereco": "Boulevard 28 de setembro, 109 - Vila Isabel - Rio de Janeiro, RJ - CEP 20551-030",
+    "tel": ["(21)2868-8134"]
+  },
+  {
+    "estado": "Rio de Janeiro",
+    "nome": "Banco De Sangue Do Instituto Nacional De Câncer José Alencar Gomes Da Silva",
+    "endereco": "Praça Cruz Vermelha, 23 2º Andar - Centro - Rio De Janeiro, Rio De Janeiro - Cep:20230-130",
+    "tel": ["(21) 3207-1580"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemocentro De Ribeirão Preto",
+    "endereco": "R Ten Catao Roxo, 2501 - Vila Monte Alegre - Ribeirao Preto, São Paulo - Cep:14051-140",
+    "tel": ["(16)21019300", "(16)21019663"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemonúcleo De Santos",
+    "endereco": "Rua Oswaldo Cruz, 197 - Boqueirao - Santos, São Paulo - Cep:11045-904",
+    "tel": ["(13)32021428"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemonúcleo De Bauru",
+    "endereco": "R Mns Claro, 888 - Centro - Bauru, São Paulo - Cep:17015-130",
+    "tel": ["(14)32344412"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hospital Amaral Carvalho",
+    "endereco": "R Da Silveria, 150 - Chacara Braz Miraglia - Jau, São Paulo - Cep:17210-080",
+    "tel": ["(14)36021200"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hospital De Cancer De Barretos",
+    "endereco": "R Antenor D Vilela, 1331 - Doutor Paulo Prata - Barretos, São Paulo - Cep:14784-400",
+    "tel": [
+      "(17)33216600 Ramal:7114",
+      "(17)33216600 Ramal:6753",
+      "(17)33216600 Ramal:7115"
+    ]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hospital Regional De Assis",
+    "endereco": "Pc Dr Symphronio A Dos Santos, 0 - Centro - Assis, São Paulo - Cep:19814-015",
+    "tel": ["(18)33026000 Ramal:6023", "(18)33026000 Ramal:6025"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hospital São Paulo De Ensino Da Unifesp São Paulo",
+    "endereco": "Rua Dr° Diogo de Faria, nº 824 - 1º andar - Vila Clementino - Sao Paulo, São Paulo - Cep: 04037-002",
+    "tel": ["(11)5576-4240"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Nucleo De Atendimento A Comunidade Farmácia Araraquara",
+    "endereco": "R Exps Do Brasil, 1621 - Centro - Araraquara, São Paulo - Cep:14801-360",
+    "tel": ["(16)33016102"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Colsan",
+    "endereco": "Av Cdor Pereira Inacio, 564 - Jardim Faculdade - Sorocaba, São Paulo - Cep:18030-005",
+    "tel": ["(15)32242930", "(15)33329122"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Fundação Faculdade Regional De Medicina De São José Do Rio Preto",
+    "endereco": "R Jamil Feres Kfouri, 80 - Jardim Panorama - Sao Jose Do Rio Preto, São Paulo - Cep:15091-240",
+    "tel": ["(17)32015076 Ramal:1930", "(17)32015078 Ramal:1930"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemocentro Da Faculdade De Medicina De Marilia",
+    "endereco": "R Lourival Freire, 240 - Fragata - Marilia, São Paulo - Cep:17519-050",
+    "tel": ["(14)34021866"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemocentro Da Santa Casa De São Paulo/laboratório De Histocompatibilidade",
+    "endereco": "R Mq De Itu, 579 Laboratório 2º Andar - Vila Buarque - Sao Paulo, São Paulo - Cep:01223-001",
+    "tel": ["2176-7249 (direto) ou 2176-7000 - Ramal: 7249"]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemocentro De Botucatu",
+    "endereco": "Distrito De Rubião Júnior, 0 - Rubião Junior - Botucatu, São Paulo - Cep:18618-970",
+    "tel": [
+      "(14)38116041 Ramal:215",
+      "(14)38116041 Ramal:240",
+      "(14)38116041 Ramal:237"
+    ]
+  },
+  {
+    "estado": "São Paulo",
+    "nome": "Hemocentro De Campinas/ Unicamp",
+    "endereco": "R Carlos Chagas, 480 - Cidade Universitaria - Campinas, São Paulo - Cep:13083-878",
+    "tel": ["(19)35218705", "0800 7228432"]
+  },
+  {
+    "estado": " ",
+    "nome": " ",
+    "endereco": " ",
+    "tel": [" ", " ", " "]
+  }
+]
