@@ -1,36 +1,46 @@
-const li = document.createElement("li");
-const ul = document.querySelector("ul");
+function removeChildren(parent) {
+  while (parent.firstChild) {
+    parent.removeChild(parent.firstChild);
+  }
+}
 
-async function iniciar() {
-  // pegando informacoes do arquivo json
+function geraLi(hemocentro, ul) {
+  const li = document.createElement("li");
+  const enderecoFormatado = hemocentro.endereco.split(" ").join("+");
+
+  const tituloCard = `<h1>${hemocentro.estado}</h1>`,
+    subtituloCard = `<h2>${hemocentro.nome}</h2>`,
+    enderecoCard = `<p>${hemocentro.endereco}</p>`,
+    contatoCard = `<a class="tel">${hemocentro.tel.join("<br>")}</a>`,
+    linkMapCard = `<a href="https://www.google.com.br/maps/place/${enderecoFormatado}+Brazil/" target="_blank">Ver no google maps</a>`;
+
+  li.innerHTML += `<div>${tituloCard}${subtituloCard}</div>`;
+  li.innerHTML += `<div>${enderecoCard}${contatoCard}</div>`;
+  li.innerHTML += linkMapCard;
+
+  ul.appendChild(li);
+}
+
+async function puxarHemocentrosJson(opcaoSelecionada) {
+  const ul = document.querySelector("[data-hemocentros]");
+
+  removeChildren(ul);
   const hemocentrosResponse = fetch("./hemocentros-db.json");
   const hemocentrosJSON = await (await hemocentrosResponse).json();
 
-  // criando cards de cada hemocentro e colocando na ul
-  hemocentrosJSON.map((hemocentro) => {
-    const li = document.createElement("li");
-    if (hemocentro.estado == "Minas Gerais") {
-      const estado = hemocentro.estado,
-        nomeHemocentro = hemocentro.nome,
-        endereco = hemocentro.endereco,
-        telefone = hemocentro.tel.join("<br>"),
-        // mapa = `https://www.google.com.br/maps/place/${endereco}`;
-        mapa = `https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=${endereco}+(T%C3%ADtulo)&amp;ie=UTF8&amp;t=&amp;z=10&amp;iwloc=B&amp;output=embed`;
+  hemocentrosJSON.forEach((hemocentro) => {
+    const expressao =
+      opcaoSelecionada === "todos"
+        ? true
+        : hemocentro.estado === opcaoSelecionada;
 
-      const tituloCard = `<h1>${estado}</h1>`,
-        subtituloCard = `<h2>${nomeHemocentro}</h2>`,
-        enderecoCard = `<p>${endereco}</p>`,
-        contatoCard = `<p class="tel">${telefone}</p>`;
-      linkMapCard = `<a href="${mapa}">Ver no google maps</a>`;
-
-      li.innerHTML += `<div>${tituloCard}${subtituloCard}</div>`;
-      li.innerHTML += `<div>${enderecoCard}${contatoCard}</div>`;
-      // li.innerHTML += linkMapCard;
-      li.innerHTML += `<iframe src="${mapa}" frameborder="0"></iframe>`;
-
-      ul.appendChild(li);
-    }
+    if (expressao) geraLi(hemocentro, ul);
   });
 }
 
-iniciar();
+const input = document.querySelector("[data-hemocentros-options]");
+puxarHemocentrosJson(input.value);
+
+input.addEventListener("change", () => {
+  puxarHemocentrosJson(input.value);
+});
