@@ -9,69 +9,42 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap" rel="stylesheet">
   <title>Document</title>
+  <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-  <style>
-    .tel {
-      font-weight: 500;
-    }
 
-    body {
-      margin: 0px;
-      font-family: 'Work Sans', Helvetica, sans-serif;
-    }
+  <select name="select" data-hemocentros-options>
+    <option value="todos" selected>Mostrar todos</option>
+    <option value="Acre">Acre</option>
+    <option value="Alagoas">Alagoas</option>
+    <option value="Amapá">Amapá</option>
+    <option value="Amazonas">Amazonas</option>
+    <option value="Bahia">Bahia</option>
+    <option value="Ceará">Ceará</option>
+    <option value="Distrito Federal">Distrito Federal</option>
+    <option value="Espírito Santo">Espírito Santo</option>
+    <option value="Goiás">Goiás</option>
+    <option value="Maranhão">Maranhão</option>
+    <option value="Mato Grosso">Mato Grosso</option>
+    <option value="Mato Grosso do Sul">Mato Grosso do Sul</option>
+    <option value="Minas Gerais">Minas Gerais</option>
+    <option value="Pará">Pará</option>
+    <option value="Paraíba">Paraíba</option>
+    <option value="Paraná">Paraná</option>
+    <option value="Pernambuco">Pernambuco</option>
+    <option value="Rio de Janeiro">Rio de Janeiro</option>
+    <option value="Rio Grande do Norte">Rio Grande do Norte</option>
+    <option value="Rio Grande do Sul">Rio Grande do Sul</option>
+    <option value="Rondônia">Rondônia</option>
+    <option value="Roraima">Roraima</option>
+    <option value="Santa Catarina">Santa Catarina</option>
+    <option value="São Paulo">São Paulo</option>
+    <option value="Sergipe">Sergipe</option>
+    <option value="Tocantins">Tocantins</option>
+  </select>
 
-    ul {
-      margin: 0 auto;
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-
-    h1,
-    h2,
-    p {
-      margin: 0px;
-    }
-
-    a {
-      text-decoration: none;
-      color: rgb(175, 50, 36);
-    }
-
-    h1 {
-      font-size: 1.5rem;
-      color: rgb(175, 50, 36);
-    }
-
-    h2 {
-      font-size: 1rem;
-      font-weight: 500;
-    }
-
-    p {
-      margin-top: 5px;
-      font-size: 14px;
-    }
-
-    li {
-      transition: .3s;
-      width: 80vw;
-      max-width: 400px;
-      background-color: #fff;
-      display: flex;
-      gap: 10px;
-      flex-direction: column;
-      box-shadow: 0px 0px 3px rgba(0, 0, 0, .2);
-      padding: 16px;
-      list-style: none;
-      border-radius: 5px;
-    }
-  </style>
-  <ul>
-
+  <ul data-hemocentros>
   </ul>
   <script src="./script.js"></script>
 </body>

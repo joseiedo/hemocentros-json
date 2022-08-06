@@ -1,0 +1,79 @@
+.tel {
+  font-weight: 500;
+}
+
+body {
+  padding: 30px;
+  display: grid;
+  background: #770b21;
+  justify-content: center;
+  margin: 0px;
+  font-family: "Work Sans", Helvetica, sans-serif;
+}
+
+[data-hemocentros-options] {
+  width: max-content;
+  margin: 20 auto;
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+[data-hemocentros] {
+  margin-top: 30px;
+  padding: 0;
+  margin: 0 auto;
+  display: grid;
+  gap: 10px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+li {
+  transition: 0.3s;
+}
+
+li:hover {
+  transform: scale(1.02);
+}
+
+h1,
+h2,
+p {
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #d81f44;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: #d81f44;
+}
+
+h2 {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+li {
+  transition: 0.3s;
+  width: 80vw;
+  max-width: 500px;
+  background-color: #fff;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  list-style: none;
+  border-radius: 5px;
+}
