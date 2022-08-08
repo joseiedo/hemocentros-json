@@ -1,5 +1,32 @@
 .tel {
   font-weight: 500;
+  display: block;
+  color: #000000;
+}
+
+.tel span {
+  color: #d81f44;
+}
+
+#vermaps {
+  background: #d81f44;
+  width: max-content;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 10px 8px;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+#vermaps:hover {
+  transform: scale(1.05);
+}
+
+a {
+  text-decoration: none;
+  padding: 3px;
+  color: #d81f44;
 }
 
 body {
@@ -34,19 +61,10 @@ li {
   transition: 0.3s;
 }
 
-li:hover {
-  transform: scale(1.02);
-}
-
 h1,
 h2,
 p {
   margin: 0px;
-}
-
-a {
-  text-decoration: none;
-  color: #d81f44;
 }
 
 h1 {
@@ -61,7 +79,6 @@ h2 {
 
 p {
   margin-top: 5px;
-  font-size: 14px;
 }
 
 li {
