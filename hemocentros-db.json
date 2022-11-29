@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "nome": "Fundação de Hematologia e Hemoterapia da Bahia - HEMOBA",
     "endereco": "Ladeira do Hospital Geral, s/n - 2º andar - Brotas",
     "cep": "40286-240 - Salvador/BA",
@@ -8,6 +9,7 @@
     "email": "direg.hemoba@hemoba.ba.gov.br"
   },
   {
+    "id": "2",
     "nome": "Centro de Hematologia e Hemoterapia de Alagoas - HEMOAL",
     "endereco": "Av. Jorge de Lima, nº 58 - Trapiche da Barra",
     "cep": "57010-300 - Maceió/AL",
@@ -16,6 +18,7 @@
     "email": "hemoal@saude.al.gov.br"
   },
   {
+    "id": "3",
     "nome": "Centro de Hemoterapia de Sergipe - HEMOSE",
     "endereco": "Av. Tancredo Neves, s/nº - Capuxo",
     "cep": "49080-470 - Aracaju/SE",
@@ -24,6 +27,7 @@
     "email": "claudio.santos.fhs@gmail.com"
   },
   {
+    "id": "4",
     "nome": "Centro de Hematologia e Hemoterapia da Paraíba - HEMOÍBA",
     "endereco": "Av. D. Pedro II, 1119 - Centro",
     "cep": "58013-420 - João Pessoa/PB",
@@ -32,6 +36,7 @@
     "email": "hemocentrodaParáiba@yahoo.com.br"
   },
   {
+    "id": "5",
     "nome": "Centro de Hematologia e Hemoterapia do Maranhão - HEMOMAR",
     "endereco": "Rua 5 de Janeiro, s/nº - Jordoá",
     "cep": "65040-450 - São Luis/MA",
@@ -40,6 +45,7 @@
     "email": "hemomar_ma@yahoo.com.br"
   },
   {
+    "id": "6",
     "nome": "Centro de Hematologia e Hemoterapia do Rio Grande do Norte - HEMONORTE",
     "endereco": "Av. Alexandrino de Alencar, 1.800 - Tirol",
     "cep": "59015-350 - Natal/RN",
@@ -48,6 +54,7 @@
     "email": "hemodirecaogeral@rn.gov.br"
   },
   {
+    "id": "7",
     "nome": "Centro de Hematologia e Hemoterapia do Piauí - HEMOPI",
     "endereco": "Rua 1º de Maio, 235 - Centro/Sul",
     "cep": "64.001-430 - Teresina/PI",
@@ -56,6 +63,7 @@
     "email": "hemopi@hemopi.pi.gov.br, diretgeral@hemopi.pi.gov.br, dirtecnica@hemopi.pi.gov.br"
   },
   {
+    "id": "8",
     "nome": "Fundação de Hematologia e Hemoterapia de Pernambuco - HEMOPE",
     "endereco": "Av. Ruy Barbosa, 375 - Graças",
     "cep": "52011-040 - Recife/PE",
@@ -64,6 +72,7 @@
     "email": "presidencia@hemope.pe.gov.br"
   },
   {
+    "id": "9",
     "nome": "Centro de Hematologia e Hemoterapia do Ceará - HEMOCE",
     "endereco": "Av. José Bastos, 3.390 - Rodolfo Teófilo",
     "cep": "60.431-086 - Fortaleza/CE",
@@ -72,6 +81,7 @@
     "email": "diretoria@hemoce.ce.gov.br, hemoce@hemoce.ce.gov.br"
   },
   {
+    "id": "10",
     "nome": "Fundação Hemocentro de Brasília - FHB",
     "endereco": "SMHN Quadra 03 Conj. A bloco 3 - Asa Norte",
     "cep": "70710-100 - Brasília/DF",
@@ -80,6 +90,7 @@
     "email": "pr@fhb.df.gov.br"
   },
   {
+    "id": "11",
     "nome": "Centro de Hemoterapia e Hematologia de Goiás - HEMOGO",
     "endereco": "Av. Anhanguera 5.195 - Setor Coimbra",
     "cep": "74.535-010 - Goiânia/GO",
@@ -88,6 +99,7 @@
     "email": "maurosilvahemogo@hotmail.com"
   },
   {
+    "id": "12",
     "nome": "Centro de Hemoterapia e Hematologia de Mato grosso - MT-Hemocentro",
     "endereco": "Rua 13 de junho nº 1055 - Porto",
     "cep": "78020- 000 - Cuiabá/MT",
@@ -96,6 +108,7 @@
     "email": "hemo@ses.mt.gov.br, redehemo@ses.mt.gov.br"
   },
   {
+    "id": "13",
     "nome": "Centro de Hemoterapia e Hematologia de Mato grosso do sul - HEMOSUL",
     "endereco": "Av. Fernando Correa da Costa, nº 1304 - Centro",
     "cep": "79004-310 - Campo Grande/ MS",
@@ -104,6 +117,7 @@
     "email": "diretoria@hemosul.ms.gov.br"
   },
   {
+    "id": "14",
     "nome": "Fundação de Hematologia e Hemoterapia do Amazonas - HEMOAM",
     "endereco": "AV. Constantino Neri, Nº 4.397 - Chapada",
     "cep": "69.050-001- Manaus/AM",
@@ -112,6 +126,7 @@
     "email": "presidencia@hemoam.am.gov.br, hemoam@hemoam.am.gov.br"
   },
   {
+    "id": "15",
     "nome": "Centro de Hemoterapia e Hematologia de Roraima - HEMORAIMA",
     "endereco": "Av. Brigadeiro Eduardo Gomes, 3418 - Campos do Paricarana",
     "cep": "69.310-005 - Boa Vista/RR",
@@ -120,6 +135,7 @@
     "email": "hemoraima@yahoo.com.br"
   },
   {
+    "id": "16",
     "nome": "Fundação Centro de Hemoterapia e Hematologia do Pará - HEMOPA",
     "endereco": "Tv. Padre Eutiquio, 2109 - Batista Campos",
     "cep": "66.033-000 - Belém/PA",
@@ -128,6 +144,7 @@
     "email": "presidencia.hemopa@hemopa.pa.gov.br"
   },
   {
+    "id": "17",
     "nome": "Centro de Hematologia e Hemoterapia do Acre - HEMOAcre",
     "endereco": "Av. Getúlio Vargas, nº 2787 - Bosque",
     "cep": "69.900-607 - Rio Branco/AC",
@@ -136,6 +153,7 @@
     "email": "hemoAcre.saude@ac.gov.br"
   },
   {
+    "id": "18",
     "nome": "Instituto de Hematologia e Hemoterapia do Estado do Amapá - HEMOAP",
     "endereco": "Av. Raimundo Álvares da Costa, s/nº - Centro",
     "cep": "68908-170 - Macapá/AP",
@@ -144,6 +162,7 @@
     "email": "hemogab@hemoap.ap.gov.br"
   },
   {
+    "id": "19",
     "nome": "Hemocentro Coordenador de Palmas - HEMOTO",
     "endereco": "Qd. 301 Norte, conj.02, Lt. 01",
     "cep": "77.001-214 – Palmas/TO",
@@ -152,6 +171,7 @@
     "email": "hemocentro@saude.to.gov.br"
   },
   {
+    "id": "20",
     "nome": "Fundação de Hematologia e Hemoterapia de Rondônia - FHEMERON",
     "endereco": "Rua Benedito de Souza Brito, s/nº - Setor Industrial",
     "cep": "76.821-080 - Porto Velho/RO",
@@ -160,6 +180,7 @@
     "email": "presidencia@fhemeron.ro.gov.br"
   },
   {
+    "id": "21",
     "nome": "Centro de Hemoterapia e Hematologia do Rio de janeiro - HEMORIO",
     "endereco": "Rua Frei Caneca, 08 - Centro",
     "cep": "20211-030 - Rio de janeiro/RJ",
@@ -168,6 +189,7 @@
     "email": "gabdg@hemorio.rj.gov.br"
   },
   {
+    "id": "22",
     "nome": "Centro Estadual de Hemoterapia e Hematologia Marcos Daniel Santos - HEMOES",
     "endereco": "Av. Marechal Campos,1468 - Maruípe",
     "cep": "29047-105 - Vitória/ES",
@@ -176,6 +198,7 @@
     "email": "hemoes@saude.es.gov.br"
   },
   {
+    "id": "23",
     "nome": "Fundação Centro de Hematologia e Hemoterapia de Minas gerais - HEMOMINAS",
     "endereco": "Rua Grão Pará, 882 - Santa Efigênia",
     "cep": "30150-341 - Belo Horizonte/MG",
@@ -184,6 +207,7 @@
     "email": "gabinete@hemominas.mg.gov.br"
   },
   {
+    "id": "24",
     "nome": "Fundação Pró-Sangue Hemocentro de São Paulo",
     "endereco": "Rua Dr. Ovídio Pires de Campos, 255 - 2º andar, sala 804 - Cerqueira César",
     "cep": "05403-905 - São Paulo/SP",
@@ -192,6 +216,7 @@
     "email": "dir.adm@prosangue.sp.gov.br"
   },
   {
+    "id": "25",
     "nome": "Coordenação da Hemorrede de São Paulo",
     "endereco": "Rua Dr. Enéas de Carvalho Aguiar, 188 - 8º Andar, sala 804 - Cerqueira César",
     "cep": "05403-000 - São Paulo/SP",
@@ -200,6 +225,7 @@
     "email": "hemorrede@saude.sp.gov.br"
   },
   {
+    "id": "26",
     "nome": "Hemocentro da Faculdade de Medicina de Marília",
     "endereco": "Rua Lourival Freire, nº 240 - Fragata",
     "cep": "17519-050 - Marília/SP",
@@ -208,6 +234,7 @@
     "email": "hemocentro@famema.br"
   },
   {
+    "id": "27",
     "nome": "Centro de Hematologia e Hemoterapia Hemocentro de Campinas -UNICAMP",
     "endereco": "Rua Carlos Chagas, 480 - Cidade Universitária Zeferino Vaz - Distrito Barão Geraldo",
     "cep": "13.083-878 - Campinas/SP",
@@ -216,6 +243,7 @@
     "email": "hemocentro@unicamp.br"
   },
   {
+    "id": "28",
     "nome": "Hemocentro de Botucatu - HC/FMB - Hemocentro - Hospital das Clínicas da Faculdade de Medicina de Botucatu",
     "endereco": "Distrito de Rubião Junior, s/nº - Campus da UNESP",
     "cep": "18.618-970  Botucatu/SP",
@@ -224,6 +252,7 @@
     "email": "hemocentro@fmb.unesp.br"
   },
   {
+    "id": "29",
     "nome": "Fundação Hemocentro de Ribeirão Preto",
     "endereco": "Rua Tenente Catão Roxo, 2501 - Monte Alegre",
     "cep": "14.051-140 - Ribeirão Preto/SP",
@@ -232,6 +261,7 @@
     "email": "dimas@fmrp.usp.br"
   },
   {
+    "id": "30",
     "nome": "Hemocentro de Santos",
     "endereco": "Rua Osvaldo Cruz 197 - Boquerão Santos",
     "cep": "11045-904 - São Paulo/SP",
@@ -239,7 +269,8 @@
     "telefone": "(13) 3233-4265",
     "email": "drs4-hemosantos@saude.sp.gov.br"
   },
-  {
+  { 
+    "id": "31",
     "nome": "Hemocentro de São José do Rio Preto",
     "endereco": "Av. Jamil Feres Kfouri, 80 - Jardim Panorama",
     "cep": "15091-240 - São José do Rio Preto/SP",
@@ -248,6 +279,7 @@
     "email": "hemo.administracao@hospitaldebase.com.br"
   },
   {
+    "id": "32",
     "nome": "Hemocentro da UNIFESP",
     "endereco": "Rua Doutor Diogo de Faria, 824 - Vila Clementino",
     "cep": "04037-002 – São Paulo/SP",
@@ -256,6 +288,7 @@
     "email": "jobordin@unifesp.br"
   },
   {
+    "id": "33",
     "nome": "Fundação Pró-Sangue Hemocentro de São Paulo",
     "endereco": "Rua Dr. Ovídio Pires de Campos, 255 - 2º andar - sala 804 - Cerqueira César",
     "cep": "05403-905 - São Paulo/SP",
@@ -264,6 +297,7 @@
     "email": "dir.adm@prosangue.sp.gov.br"
   },
   {
+    "id": "34",
     "nome": "Centro de Hematologia e Hemoterapia do Paráná - HEMEPAR",
     "endereco": "Travessa Joao Prosdocimo,145 - Alto da XV",
     "cep": "80.045-145 - Curitiba/PR",
@@ -272,6 +306,7 @@
     "email": "hemepar@pr.gov.br"
   },
   {
+    "id": "35",
     "nome": "Centro de Hematologia e Hemoterapia de Santa catarina - HEMOSC",
     "endereco": "Av. Othon Gama D’Eça, 756 - Praça D. Pedro I - Centro",
     "cep": "88015-240 - Florianópolis/SC",
@@ -280,6 +315,7 @@
     "email": "secretaria@fns.hemosc.org.br"
   },
   {
+    "id": "36",
     "nome": "Hemocentro do Estado do Rio grande do sul - HEMORGS",
     "endereco": "Av. Bento Gonçalves, nº 3722 - Partenon",
     "cep": "90650-001 - Porto Alegre/RS",
